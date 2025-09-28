@@ -2,7 +2,7 @@
 <h3 align="center">Second-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
 
 - 📫 How to reach me? email: **yerrarahul23@gmail.com**
-- Portfolio [yerra-rahul-portfolio.netlify.app/](yerra-rahul-portfolio.netlify.app/)
+- Portfolio [YerraRahul.portfolio](https://yerrarahul.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
