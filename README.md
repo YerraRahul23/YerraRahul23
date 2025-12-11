@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yerra Rahul</h1>
-<h3 align="center">Second-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
+<h3 align="center">Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
 
 - 📫 How to reach me? email: **yerrarahul23@gmail.com**
 - Portfolio [YerraRahul.portfolio](https://yerrarahul.netlify.app/)
