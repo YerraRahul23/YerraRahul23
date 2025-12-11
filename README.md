@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yerra Rahul</h1>
 <h3 align="center">Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
 
-- ✉️ You can contact me at **yerrarahul23@gmail.com**
+- ✉️ You can contact me at [yerrarahul23@gmail.com](mailto:yerrarahul23@gmail.com)
 - 🌏 Portfolio [YerraRahul.portfolio](https://yerrarahul.netlify.app/)
 - ⚡️ Coffee is how I keep up with code
 
