@@ -2,7 +2,7 @@
 <h3 align="center">Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
 
 - ✉️ You can contact me at [yerrarahul23@gmail.com](mailto:yerrarahul23@gmail.com)
-- 🌏 Portfolio [YerraRahul.portfolio](https://yerrarahul.netlify.app/)
+- 🌏 Portfolio [YerraRahul.portfolio](https://yerrarahul23.github.io/Portfolio/)
 - ⚡️ Coffee is how I keep up with code
 
 <h3 align="left">Skills:</h3>
