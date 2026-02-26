@@ -1,224 +1,48 @@
-<div align="center">
-
-# Hi, I'm Yerra Rahul 👋  
-### AI Systems Engineer • Full-Stack Developer • Agent Architect
-
-<br>
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450" style="border-radius:15px;" />
-
-<br><br>
-
-I don’t just integrate AI.  
-I architect intelligence into systems.
-
-</div>
-
----
-
-## 🧠 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 『 Philosophy 』
-
-> Most applications call APIs.  
-> I build systems that **remember, reason, and evolve.**
-
-I focus on:
-
-- 🧠 AI-powered backend systems  
-- ⚙️ Agent architecture  
-- 📦 Scalable full-stack applications  
-- 🔐 Secure production deployments  
-
-🎯 Optimizing for **real-world impact**, not tutorials.
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤖 PersonaGPT — Custom AI Agent Builder
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_System-PersonaGPT-6C63FF?style=for-the-badge&labelColor=white" />
-
-<br><br>
-
-A modular AI platform to build intelligent personas  
-(Therapist • Investor • Fitness Coach • Custom Agents)
-
-</div>
-
-### 🔥 Core Capabilities
-
-| Feature | Description |
-|----------|-------------|
-| 🧠 LLM Integration | GPT / Gemini powered agents |
-| 🗂 Vector Memory | Long-term conversation recall |
-| 🎯 Intent Detection | ML-based classification layer |
-| 🔐 Auth System | JWT + hashed passwords |
-| 💾 Persistent History | SQLite chat storage |
-| 🧭 Persona Recommendation | Smart persona suggestions |
-| ⚡ LangChain Agents | Tool-augmented reasoning |
-
-```
-Most AI apps chat.
-PersonaGPT learns.
-```
-
----
-
-## 🏗 Architecture Mindset
-
-```
-I build everything assuming:
-
-THIS WILL SCALE.
-THIS WILL BREAK.
-THIS WILL EVOLVE.
-```
-
-| I Prefer | Over |
-|----------|------|
-| Systems | Scripts |
-| Agents | Bots |
-| Memory | Stateless Chat |
-| Architecture | Hacks |
-| Extensibility | Shortcuts |
-
----
-
-## 💻 Technical Foundation
-
-### 🧠 Core Stack
-```
-Python • JavaScript • TypeScript • Node.js • FastAPI
-```
-
-### 🤖 AI & ML Systems
-```
-Gemini API • GPT • LangChain • RAG • Vector DB
-PyTorch • Intent Classification Models
-```
-
-### 🗄 Data & Infrastructure
-```
-SQLite • better-sqlite3 • MongoDB • Redis
-Docker • JWT Auth • Production Deployment
-```
-
-### 🎨 Frontend
-```
-React • HTML • CSS • Tailwind
-ChatGPT-style UI Systems • Vercel Deployment
-```
-
----
-
-## 🛠 Signature Projects
-
-### 🚚 Product Shipping Platform
-- Firebase integration  
-- Auto-generated Order IDs  
-- Production deployment on Vercel  
-- Real-time order storage  
-
----
-
-### 🤖 AI Voice Agent
-- Makes calls  
-- Conversational interface  
-- Executes tasks autonomously  
-- System-level AI assistant  
-
----
-
-### 💬 ChatGPT UI Clone
-- Sidebar chat system  
-- Rename / Delete chat threads  
-- Gemini API backend proxy  
-- Secure API architecture  
-
----
-
-## ⚡ How I Build
-
-<table>
-<tr>
-<td align="center">🚀 Ship Fast</td>
-<td align="center">🧠 Think Systems</td>
-<td align="center">✂️ Cut Noise</td>
-<td align="center">🔍 Iterate Deeply</td>
-</tr>
-</table>
-
-| Principle | Meaning |
-|------------|---------|
-| Architecture First | Design before features |
-| Secure by Default | Hashing, Auth, API Protection |
-| Memory Matters | Stateful intelligence |
-| Real Feedback | Over hypothetical polish |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YerraRahul23&show_icons=true&theme=buefy&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=YerraRahul23&theme=buefy&hide_border=true" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YerraRahul23&bg_color=ffffff&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true" width="98%" />
-
-</div>
-
----
-
-## 🤝 Collaborate With Me If
-
-- You think in **systems**
-- You build AI beyond wrappers
-- You care about scalable architecture
-- You value clarity over hype
-
-Otherwise, observe. 👀
-
----
-
-## 🎯 Long-Term Vision
-
-```diff
-+ Build production-level AI agent systems
-+ Become a world-class AI Systems Architect
-+ Master scalable backend infrastructure
-+ Build intelligence layers, not just apps
-```
-
----
-
-<div align="center">
-
-<br>
-
-**AI is not a feature.  
-It’s an operating layer.**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Built_with-☕_and_Consistency-6C63FF?style=for-the-badge&labelColor=white" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Yerra Rahul</h1>
+<h3 align="center">Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
+
+- ✉️ You can contact me at [yerrarahul23@gmail.com](mailto:yerrarahul23@gmail.com)
+- 🌏 Portfolio [YerraRahul.portfolio](https://yerrarahul23.github.io/Portfolio/)
+- ⚡️ Coffee is how I keep up with code
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrarahul/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calvin__rahul/)
+</p>
