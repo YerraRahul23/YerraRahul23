@@ -37,6 +37,21 @@
   </a>
 
 </p>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YerraRahul23&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=YerraRahul23&theme=midnight-purple&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YerraRahul23&bg_color=0d1117&color=7C83FD&line=7C83FD&point=FF6B6B&area=true&hide_border=true" width="98%" />
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
