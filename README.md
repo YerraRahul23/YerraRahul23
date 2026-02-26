@@ -2,8 +2,34 @@
 
 # 👋 Hi, I'm Yerra Rahul  
 ### AI Systems Engineer • Full-Stack Developer • AIML Enthusiast
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+Scalable+Intelligent+Systems" />
-<br><br> -->
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td width="55%" valign="top">
+
+### 『 Architecture & Intelligence 』
+
+> AI is most powerful when embedded into the system layer.
+
+I engineer backend-first architectures that integrate  
+memory, reasoning, and scalable infrastructure.
+
+<br>
+
+**🎯 Designed for scale. Built for longevity.**
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAxMGk1OHRzOHMxNGpqYmp3N3FnY3Jqd3c0c3BzNDE5Zzgzdzd4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="480" style="border-radius: 15px;"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ffffff?style=for-the-badge&logo=logoColor=000000)](https://yerrarahul23.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yerrarahul23@gmail.com)
@@ -19,7 +45,7 @@
 
 
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Me
 
 - 🎓 Third-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
 - 🤖 Building AI-driven applications with real-world impact
@@ -35,7 +61,7 @@
 
 
 
-## 🚀 Tech Stack
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -57,7 +83,7 @@
 
 
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -78,7 +104,7 @@
 
 
 
-## 🌍 Connect With Me
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> &nbsp;Connect With Me
 
 <div align="center">
 
