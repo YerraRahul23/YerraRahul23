@@ -2,24 +2,22 @@
 
 # 👋 Hi, I'm Yerra Rahul  
 ### AI Systems Engineer • Full-Stack Developer • AIML Enthusiast
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+Scalable+Intelligent+Systems" />
+<br><br> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Systems;Full-Stack+Developer;Passionate+About+Scalable+Architecture" />
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7C83FD?style=for-the-badge&labelColor=white)](https://yerrarahul23.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/✉️_Email-Contact-7C83FD?style=for-the-badge&labelColor=white)](mailto:yerrarahul23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrarahul/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ffffff?style=for-the-badge&logo=logoColor=000000)](https://yerrarahul23.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yerrarahul23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yerrarahul/)
 
 </div>
 
----
+
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
----
+
 
 ## 🧠 About Me
 
@@ -29,13 +27,13 @@
 - 🚀 Passionate about clean architecture & production-ready systems
 - ☕ Coffee is how I keep up with code
 
----
+
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -51,19 +49,19 @@
 
 </div>
 
----
+
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
----
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YerraRahul23&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=YerraRahul23&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=YerraRahul23&theme=midnight-purple&hide_border=true" width="48%" />
 
@@ -73,13 +71,12 @@
 
 </div>
 
----
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
----
+
 
 ## 🌍 Connect With Me
 
@@ -90,7 +87,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
