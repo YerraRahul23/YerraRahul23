@@ -37,7 +37,9 @@
   </a>
 
 </p>
----
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
 
 # 📊 GitHub Analytics
 
