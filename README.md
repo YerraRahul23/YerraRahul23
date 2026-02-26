@@ -55,6 +55,9 @@
 
 </div>
 
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
