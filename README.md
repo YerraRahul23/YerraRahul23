@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yerra Rahul
+# 👋 Hi, I'm Yerra Rahul  
 ### AI Systems Engineer • Full-Stack Developer • AIML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Systems;Full-Stack+Developer;Passionate+About+Scalable+Architecture" />
@@ -13,39 +13,53 @@
 
 </div>
 
+---
+
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
+---
 
 ## 🧠 About Me
 
 - 🎓 Third-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
 - 🤖 Building AI-driven applications with real-world impact
-- ⚙️ Interested in scalable backend systems & intelligent agents
+- ⚙️ Focused on scalable backend systems & intelligent agents
+- 🚀 Passionate about clean architecture & production-ready systems
 - ☕ Coffee is how I keep up with code
+
+---
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
+---
 
 ## 🚀 Tech Stack
 
 <div align="center">
 
 ### 💻 Programming & Web
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,git&theme=light" />
 
+<br><br>
+
+### 🧠 AI & Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,nodejs,mongodb&theme=light" />
 
 </div>
-</p>
+
+---
+
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-# 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -59,14 +73,29 @@
 
 </div>
 
+---
+
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
+## 🌍 Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrarahul/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calvin__rahul/)
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrarahul/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calvin__rahul/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "AI is not just a tool — it’s an operating layer."
+
+<img src="https://img.shields.io/badge/Built_with-☕_and_Passion-7C83FD?style=for-the-badge&labelColor=white" />
+
+</div>
