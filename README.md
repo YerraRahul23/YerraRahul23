@@ -1,41 +1,45 @@
-<h1 align="center">Hi 👋, I'm Yerra Rahul</h1>
-<h3 align="center">Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning</h3>
+<div align="center">
 
-- ✉️ You can contact me at [yerrarahul23@gmail.com](mailto:yerrarahul23@gmail.com)
-- 🌏 Portfolio [YerraRahul.portfolio](https://yerrarahul23.github.io/Portfolio/)
-- ⚡️ Coffee is how I keep up with code
+# 👋 Hi, I'm Yerra Rahul
+### AI Systems Engineer • Full-Stack Developer • AIML Enthusiast
 
-<h3 align="left">Skills:</h3>
-<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Systems;Full-Stack+Developer;Passionate+About+Scalable+Architecture" />
 
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
+<br><br>
 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7C83FD?style=for-the-badge&labelColor=white)](https://yerrarahul23.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/✉️_Email-Contact-7C83FD?style=for-the-badge&labelColor=white)](mailto:yerrarahul23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrarahul/)
 
+</div>
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+
+## 🧠 About Me
+
+- 🎓 Third-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🤖 Building AI-driven applications with real-world impact
+- ⚙️ Interested in scalable backend systems & intelligent agents
+- ☕ Coffee is how I keep up with code
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 💻 Programming & Web
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,git&theme=light" />
+
+
+</div>
 </p>
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
