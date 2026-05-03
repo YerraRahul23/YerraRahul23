@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🎓 Third-year B.Tech student specializing in Artificial Intelligence & Machine Learning<br>
+🎓 Fourth-year B.Tech student specializing in Artificial Intelligence & Machine Learning<br>
 🤖 Building AI-driven applications with real-world impact<br>
 ⚙️ Focused on scalable backend systems & intelligent agents<br>
 🚀 Passionate about clean architecture & production-ready systems<br>
