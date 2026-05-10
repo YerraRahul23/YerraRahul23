@@ -71,9 +71,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=5500&color=7C83FD&center=true&vCenter=true&width=600&lines=AI+is+not+just+a+tool+—+it’s+an+operating+layer." />
-</h3>
+</h3> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C83FD&height=100&section=footer" />
 
